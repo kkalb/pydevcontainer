@@ -24,6 +24,7 @@
 			"extensions": [
 				"ms-python.python",
 				"ms-python.debugpy",
+				"batisteo.vscode-django",
 				"ms-azuretools.vscode-docker",
 				"cweijan.vscode-postgresql-client2"
 			]
